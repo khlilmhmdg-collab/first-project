@@ -4,5 +4,18 @@
   "createdAt": "2026-10-07T18:06:48.408Z",
   "filename": "b79a3b60-58b9-4ce1-bcc6-fd10846739bf.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "7bb1d43d-1f5b-4ba1-bfba-638b218edc58",
+      "role": "user",
+      "content": "أريد ارفع لك فيديو وتقوم بتعديله بصورة احترافية",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-07T18:09:28.784Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
