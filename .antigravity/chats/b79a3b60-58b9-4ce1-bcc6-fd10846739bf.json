@@ -28,6 +28,18 @@
       "created_at": "2026-10-07T18:10:05.627Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "07e49c75-3147-4f94-96c4-baa5161230c8",
+      "role": "user",
+      "content": "https://drive.google.com/file/d/1vYvidgAPFbjHgvkta3VOJddcJ5sR9d5v/view?usp=drivesdk",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-07T18:14:49.287Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
